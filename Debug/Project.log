@@ -1,0 +1,14 @@
+﻿  proyect (1).cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\include\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(367): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(368): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(378): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(379): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(390): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(391): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(404): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(407): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(911): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\andrea\documents\unam\3. programacion\8.3 computacion grafica\laboratorio\project\project\proyect (1).cpp(918): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Project.vcxproj -> C:\Users\Andrea\Documents\UNAM\3. Programacion\8.3 Computacion Grafica\Laboratorio\Project\Debug\Project.exe
